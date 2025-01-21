@@ -10,6 +10,6 @@ In the context of building a financial application ,
 5. Ease of Use : Providing a seamless and user-friendly experience for onboarding uses into the financial ecosystem, especially for those unfamiliar with digital assests.
 ## Example in Practice :
 If you are building a crypto wallet, "On ramping would allow a user to ":
-> Link their bank account or card.
-> Deposit $100 into the app.
-> Receive an equivalent amount ( e.g 0.01BTC or 100 USDT) in their wallet.
+1. Link their bank account or card.
+2. Deposit $100 into the app.
+3. Receive an equivalent amount ( e.g 0.01BTC or 100 USDT) in their wallet.
