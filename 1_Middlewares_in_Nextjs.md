@@ -33,3 +33,8 @@ app.get("/requestCount",(req,res)=>{
  app.listen(3000);`
 
 
+# Middleware in next 
+
+NOTE : While only one middleware.ts file is supported per project, you can still organize your middleware logic modularly . Break out middleware functionalities into seperate .ts or .js files and import them into your main middleware.ts file.
+This allows for cleaner management of route-specific middleware, aggregated in the middleware.ts for centralized control.By enforcing a single middleware file, it simplifies configuration, prevents potential conflicts , and optimizes performance by avoiding multiple middleware layers.
+
