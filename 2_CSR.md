@@ -30,3 +30,11 @@ Downsides?
 2. User sees a flash before the page renders
 3. Waterfalling problem 
 ![waterfalling problem ](image-2.png)
+
+
+Client-Side Rendering is a way websites work where most of the heavy lifting happens in your web browser, not on the server. When you visit a site, the server sends a basic file (usually some HTML, CSS, and JavaScript), and then your browser uses the JavaScript to build and display the full page. It’s like getting a recipe and cooking the meal yourself instead of having it delivered ready-made.
+
+For example:
+
+You load a page, and it might show a blank screen or a loading spinner at first.
+Then, the JavaScript kicks in, fetches data (like a list of products or posts), and fills in the page.
