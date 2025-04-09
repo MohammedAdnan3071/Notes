@@ -21,14 +21,7 @@ Rather than building all of these into a single Massive app, it is cleaner and m
  In larger setups, data is often stored across different DBs or services. To ensure consistency:
  1. Services may sync data
  2.One service may publish events that others subscribe to (via message brokers like kafka or RabbitMQ) 
-### asyc processes
 
-#### asyc vs syn communictions (Great interview Question)
-
-### what extra does websockets provide when compared to HTTP
-
-
-# Types of Backend Communications
 # what is backend communication?
 In real world , you have various backend systems, not just one.
 ![backend_communictions](all_backend_comms.png)
